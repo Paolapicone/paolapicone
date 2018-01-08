@@ -2071,3 +2071,7 @@ body {
 .cid-qG9dUI87Tu {
   background-image: url("../../../assets/images/tarjeta-de-visita45-2000x1270.jpg");
 }
+.cid-qG9dUI87Tu .mbr-text,
+.cid-qG9dUI87Tu .mbr-section-btn B {
+  color: #232323;
+}
