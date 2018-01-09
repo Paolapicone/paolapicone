@@ -1364,9 +1364,36 @@ body {
   min-height: 100vh;
 }
 .cid-qG9lIvVbJV {
-  background-image: url("../../../assets/images/tarjeta-de-visita45-2000x1270.jpg");
+  background-image: url("../../../assets/images/web2-2000x1270.jpg");
 }
 .cid-qG9lIvVbJV .mbr-text,
 .cid-qG9lIvVbJV .mbr-section-btn {
   color: #232323;
+}
+.cid-qGe9jOnTYB {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/web-2000x1270.jpg");
+}
+.cid-qGe9jOnTYB .title {
+  margin-bottom: 2rem;
+}
+.cid-qGe9jOnTYB .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-qGe9jOnTYB a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-qGe9jOnTYB a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qGe9jOnTYB .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-qGe9jOnTYB .input-group-btn {
+  display: block;
+  text-align: center;
 }
