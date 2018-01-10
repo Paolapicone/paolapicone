@@ -1363,6 +1363,18 @@ body {
   height: auto;
   min-height: 100vh;
 }
+.cid-qGjItgWYEf {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #7fdbfd, #70c69c);
+}
+.cid-qGjItgWYEf .mbr-iconfont-social {
+  font-size: 32px;
+  color: #073b4c;
+}
+.cid-qGjItgWYEf .social-list a:focus {
+  text-decoration: none;
+}
 .cid-qG9lIvVbJV {
   background-image: url("../../../assets/images/web2-1-2000x1270.jpg");
 }
