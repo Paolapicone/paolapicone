@@ -6,8 +6,8 @@
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#115971",
-        "secondaryColor": "#073b4c",
+        "primaryColor": "#090909",
+        "secondaryColor": "#000000",
         "successColor": "#232323",
         "infoColor": "#232323",
         "warningColor": "#232323",
@@ -23,9 +23,9 @@
         "display7Size": 1,
         "display4Font": "Open Sans Condensed",
         "display4Size": 1,
-        "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
       },
       "additionalSetColors": [
         "#115971",
