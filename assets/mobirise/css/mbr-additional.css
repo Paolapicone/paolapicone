@@ -270,21 +270,21 @@ body {
 .btn-white:active {
   background-color: #ffffff;
   border-color: #ffffff;
-  color: #ffffff;
+  color: #808080;
 }
 .btn-white:hover,
 .btn-white:focus,
 .btn-white.focus,
 .btn-white.active {
-  color: #ffffff;
-  background-color: #d4d4d4;
-  border-color: #d4d4d4;
+  color: #808080;
+  background-color: #d9d9d9;
+  border-color: #d9d9d9;
 }
 .btn-white.disabled,
 .btn-white:disabled {
-  color: #ffffff !important;
-  background-color: #d4d4d4 !important;
-  border-color: #d4d4d4 !important;
+  color: #808080 !important;
+  background-color: #d9d9d9 !important;
+  border-color: #d9d9d9 !important;
 }
 .btn-black,
 .btn-black:active {
@@ -1363,17 +1363,27 @@ body {
   height: auto;
   min-height: 100vh;
 }
-.cid-qG9lIvVbJV {
-  background-image: url("../../../assets/images/web2-1-2000x1270.jpg");
+.cid-qJtkM3jdbL {
+  background-image: url("../../../assets/images/tarjeta-de-visita49-2000x1270.jpg");
 }
-.cid-qG9lIvVbJV .mbr-text,
-.cid-qG9lIvVbJV .mbr-section-btn {
-  color: #232323;
+.cid-qJtkM3jdbL h1 {
+  color: #616161;
+}
+.cid-qJtkM3jdbL h2,
+.cid-qJtkM3jdbL h3,
+.cid-qJtkM3jdbL p {
+  color: #767676;
+}
+.cid-qJtkM3jdbL .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-qJtkM3jdbL H1 {
+  text-align: left;
 }
 .cid-qGe9jOnTYB {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/web-1-2000x1270.jpg");
+  background-color: #ffffff;
 }
 .cid-qGe9jOnTYB .title {
   margin-bottom: 2rem;
@@ -1401,9 +1411,9 @@ body {
   color: #073b4c;
 }
 .cid-qGjMBAWjkf {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/web-1-2000x1270.jpg");
+  background-color: #090909;
 }
 .cid-qGjMBAWjkf .row-links {
   width: 100%;
