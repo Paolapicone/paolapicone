@@ -1281,10 +1281,12 @@ body {
   min-height: 100vh;
 }
 .cid-qJEmM9w7BQ {
-  background-image: url("../../../assets/images/tarjetas-de-visita-finak-2-2000x1270.jpg");
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/fondo1-1-2000x1270.jpg");
 }
 .cid-qJEoz8drCR {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 30px;
   background-color: #010101;
 }
