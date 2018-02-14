@@ -1280,38 +1280,8 @@ body {
   height: auto;
   min-height: 100vh;
 }
-.cid-qJtmxLKUDh {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/fondo-1999x1270.jpg");
-}
-.cid-qJtmxLKUDh .icons-media-container {
-  display: flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-  padding-top: 4rem;
-}
-.cid-qJtmxLKUDh .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-qJtmxLKUDh .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-qJtmxLKUDh .mbr-text {
-  color: #ffffff;
-}
-.cid-qJtmxLKUDh .card {
-  padding-bottom: 1.5rem;
-}
-.cid-qJtqzAMpmG {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/web-2-2000x1270.jpg");
+.cid-qJEmM9w7BQ {
+  background-image: url("../../../assets/images/tarjetas-de-visita-finak-2-2000x1270.jpg");
 }
 .cid-qGjMBAWjkf {
   padding-top: 45px;
@@ -1382,4 +1352,38 @@ body {
 }
 .cid-qGjMBAWjkf .media-container-row .row-copirayt p {
   width: 100%;
+}
+.cid-qGjMBAWjkf .media-container-row .mbr-text {
+  color: #010101;
+}
+.cid-qJtmxLKUDh {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/fondo-1999x1270.jpg");
+}
+.cid-qJtmxLKUDh .icons-media-container {
+  display: flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-qJtmxLKUDh .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-qJtmxLKUDh .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-qJtmxLKUDh .mbr-text {
+  color: #ffffff;
+}
+.cid-qJtmxLKUDh .card {
+  padding-bottom: 1.5rem;
+}
+.cid-qJtmxLKUDh H5 {
+  color: #010101;
 }
