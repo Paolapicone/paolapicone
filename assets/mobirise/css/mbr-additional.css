@@ -1280,15 +1280,10 @@ body {
   height: auto;
   min-height: 100vh;
 }
-.cid-qJtqzAMpmG {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/web-2-2000x1270.jpg");
-}
 .cid-qJtmxLKUDh {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #e6c0c9;
+  background-image: url("../../../assets/images/fondo-1999x1270.jpg");
 }
 .cid-qJtmxLKUDh .icons-media-container {
   display: flex;
@@ -1313,10 +1308,15 @@ body {
 .cid-qJtmxLKUDh .card {
   padding-bottom: 1.5rem;
 }
+.cid-qJtqzAMpmG {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/web-2-2000x1270.jpg");
+}
 .cid-qGjMBAWjkf {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #010101;
+  background-image: url("../../../assets/images/fondo-1999x1270.jpg");
 }
 .cid-qGjMBAWjkf .row-links {
   width: 100%;
