@@ -1280,6 +1280,26 @@ body {
   height: auto;
   min-height: 100vh;
 }
+.cid-qJJgMbNgrX {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/fondo-1999x1270.jpg");
+}
+@media (min-width: 992px) {
+  .cid-qJJgMbNgrX .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qJJgMbNgrX .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qJJgMbNgrX .mbr-text {
+    text-align: center;
+  }
+}
 .cid-qJEmM9w7BQ {
   padding-top: 135px;
   padding-bottom: 135px;
@@ -1288,7 +1308,7 @@ body {
 .cid-qJEoz8drCR {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #010101;
+  background-image: url("../../../assets/images/fondo-1999x1270.jpg");
 }
 .cid-qJEoz8drCR .row-links {
   width: 100%;
